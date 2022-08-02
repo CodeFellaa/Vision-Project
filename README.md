@@ -75,5 +75,4 @@ env = gym.make("vision_arena-v0")
 Please note that this image is only indicative, and the arena may be be shuffled.
 # Collaborators:
 1. <a href="https://github.com/Bharat-mtr"> Bharat Bansal</a>
-2. <a href="https://github.com/kunal646"> Kunal Lodha</a>
-3. <a href="https://github.com/pradeepsh2203"> Pradeep Sharma</a>
+2. <a href="https://github.com/CodeFellaa"> Aditya Agrawal</a>
